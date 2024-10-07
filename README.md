@@ -1,7 +1,3 @@
-Here’s a sample document covering the **Stock Market Prediction Project using LSTM in Python**. It includes an introduction, the purpose of the project, a discussion of libraries used, an analysis of the results, and a conclusion.
-
----
-
 # **Stock Market Prediction using LSTM in Python**
 
 ## **1. Introduction**
@@ -134,7 +130,3 @@ The results show that while the LSTM model is capable of capturing general price
 - **matplotlib** provided visualization capabilities to help us analyze the model’s performance.
 
 This project serves as a demonstration of how machine learning and deep learning can be applied to stock market data for making future predictions, though it also highlights the limitations of any predictive model in such a volatile domain.
-
----
-
-Let me know if you need any modifications or additional sections!
